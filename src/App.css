@@ -73,7 +73,7 @@ input {
 
 .chat-box {
   background-color: #e3e9ff;
-  height: 93.7vh;
+  min-height: 93.7vh;
 }
 
 /* chat component */
